@@ -1,0 +1,105 @@
+$blue1: #50AFE7;
+$blue2: #0097F0;
+$pink: #FDC1C3;
+$green: #00AA67;
+$yellow1: #F9DA49;
+$yellow2: #F9EA80;
+$purple: #7D5BA6;
+
+// blue1 class
+.bg-blue1{
+    background-color: $blue1;
+}
+.txt-blue1{
+    color: $blue1;
+}
+.border-blue1{
+    border-color: $blue1;
+}
+.outline-blue1{
+    -webkit-text-stroke: 1px $blue1;
+}
+
+// blue2
+.bg-blue2{
+    background-color: $blue2;
+}
+.txt-blue2{
+    color: $blue2;
+}
+.border-blue2{
+    border-color: $blue2;
+}
+.outline-blue2{
+    -webkit-text-stroke: 1px $blue2;
+}
+
+// pink
+.bg-pink{
+    background-color: $pink;
+}
+.txt-pink{
+    color: $pink;
+}
+.border-pink{
+    border-color: $pink;
+}
+.outline-pink{
+    -webkit-text-stroke: 1px $pink;
+}
+
+// green
+.bg-green{
+    background-color: $green;
+}
+.txt-green{
+    color: $green;
+}
+.border-green{
+    border-color: $green;
+}
+.outline-green{
+    -webkit-text-stroke: 1px $green;
+}
+
+// yellow1
+.bg-yellow1{
+    background-color: $yellow1;
+}
+.txt-yellow1{
+    color: $yellow1;
+}
+.border-yellow1{
+    border-color: $yellow1;
+}
+.outline-yellow1{
+    -webkit-text-stroke: 1px $yellow1;
+}
+
+// yellow2
+.bg-yellow2{
+    background-color: $yellow2;
+}
+.txt-yellow2{
+    color: $yellow2;
+}
+.border-yellow2{
+    border-color: $yellow2;
+}
+.outline-yellow2{
+    -webkit-text-stroke: 1px $yellow2;
+}
+
+// purple
+.bg-purple{
+    background-color: $purple;
+}
+.txt-purple{
+    color: $purple;
+}
+.border-purple{
+    border-color: $purple;
+}
+.outline-purple{
+    -webkit-text-stroke: 1px $purple;
+}

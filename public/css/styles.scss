@@ -1,0 +1,19 @@
+@import './variables';
+* {
+    margin: 0;
+    padding: 0;
+    -webkit-box-sizing: border-box;
+            box-sizing: border-box;
+    font-family: "Merriweather Sans", sans-serif !important;
+}
+
+// section{
+//     padding: 60px 0;
+// }
+
+@import './navbar';
+@import './home';
+@import './products';
+@import './contactus';
+@import './wheretobuy';
+@import './aboutus';

@@ -1,0 +1,73 @@
+.bg-prod-img{
+  background: url("/assets/chips-dummy-bg2.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 100%;
+}
+
+.vh-md-100{
+  height: 100vh;
+}
+
+.fs-giant{
+  font-size: 144px;
+}
+
+.fs-big{
+  font-size: 48px;
+}
+
+.products-area {
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: top left;
+  }
+  
+  .products-content ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+  
+  .products-content ul li {
+    margin-bottom: 10px;
+  }
+  
+  .products-content ul li:last-child {
+    margin-bottom: 25px;
+  }
+  
+  .products-content ul li i {
+    margin-right: 7px;
+    color: #45A29E;
+    font-weight: 700;
+  }
+
+  .products-icon{
+      width: 500px;
+  }
+
+  @media only screen and (max-width: 1000px){
+    .products-icon{
+      width: 200px;
+    }
+    .vh-md-100{
+      height: 50vh;
+    }
+    .fs-giant{
+      font-size: 64px;
+    }
+  }
+
+  @media only screen and (max-width: 350px){
+    .fs-giant{
+      font-size: 48px;
+    }
+    .fs-big{
+      font-size: 24px;
+    }
+    .products-icon{
+      width: 150px;
+    }
+  }
