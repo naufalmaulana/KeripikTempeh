@@ -49,9 +49,9 @@
                 </div>
               </div>
             </div> --}}
-            <a class="accordion-button collapsed bg-blue2 text-white mb-5"  data-bs-toggle="collapse" data-bs-target="#chapter-2" aria-expanded="false" aria-controls="chapter-2">
+            {{-- <a class="accordion-button collapsed bg-blue2 text-white mb-5"  data-bs-toggle="collapse" data-bs-target="#chapter-2" aria-expanded="false" aria-controls="chapter-2">
               Location 1
-            </a>
+            </a> --}}
             <div class="accordion-item">
               <h2 class="accordion-header" id="heading-2">
                 <button class="accordion-button collapsed bg-blue2 text-white" type="button" data-bs-toggle="collapse" data-bs-target="#chapter-2" aria-expanded="false" aria-controls="chapter-2">

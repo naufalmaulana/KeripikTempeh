@@ -28,9 +28,9 @@
           <li class="nav-item ">
             <a class="nav-link fw-bold text-light" href="#contactus">Where To Buy</a>
           </li>
-          <li class="nav-item ">
+          {{-- <li class="nav-item ">
             <a class="nav-link fw-bold text-light" href="#contactus">Crowd Fund</a>
-          </li>
+          </li> --}}
           {{-- <li class="nav-item d-md-none">
             <a class="nav-link" href="" data-bs-toggle="modal" data-bs-target="#modalLoginForm">SIGN IN</a>
           </li>        
